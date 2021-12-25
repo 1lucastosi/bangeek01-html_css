@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="222.413" height="137.731" viewBox="0 0 222.413 137.731">
+  <defs>
+    <clipPath id="clip-path">
+      <rect x="3" width="166" height="119" fill="none"/>
+    </clipPath>
+    <filter id="Elipse_306" x="92.086" y="0" width="90.431" height="90.431" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#e12e6c" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_7459" x="89.867" y="13.767" width="62.516" height="63.261" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-2"/>
+      <feFlood flood-color="#e22f6b" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_307" x="129.763" y="0" width="90.431" height="90.431" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-3"/>
+      <feFlood flood-color="#e12e6c" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_7460" x="159.897" y="13.405" width="62.516" height="63.261" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-4"/>
+      <feFlood flood-color="#e22e6a" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_7461" x="120.57" y="10.753" width="70.845" height="65.12" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-5"/>
+      <feFlood flood-color="#e22e6a" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_7464" x="144.161" y="54.293" width="69.695" height="69.695" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-6"/>
+      <feFlood flood-color="#e2306c" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-6"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Elipse_309" x="140" y="73.731" width="78" height="64" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-7"/>
+      <feFlood flood-color="#e2306c" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Caminho_7463" x="148.508" y="63.019" width="61" height="71.634" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur-8"/>
+      <feFlood flood-color="#e2306c" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-8"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="logo" transform="translate(-111.793 -352.769)">
+    <g id="ban1" transform="translate(108.793 355.5)" clip-path="url(#clip-path)" style="isolation: isolate">
+      <g id="ban" transform="translate(0.707 1)">
+        <text id="Ban-2" data-name="Ban" transform="translate(0.293 56)" fill="none" stroke="#fff" stroke-width="1" font-size="58" font-family="Montserrat-Bold, Montserrat" font-weight="700" letter-spacing="-0.015em"><tspan x="0" y="0">Ban</tspan></text>
+        <text id="GeeK" transform="translate(6.293 103)" fill="#fff" font-size="58" font-family="Montserrat-Bold, Montserrat" font-weight="700" letter-spacing="-0.015em"><tspan x="0" y="0">GeeK</tspan></text>
+      </g>
+    </g>
+    <g id="óculos_logo" data-name="óculos logo" transform="translate(231.661 379.769)">
+      <g id="Grupo_20859" data-name="Grupo 20859" transform="translate(0)">
+        <g id="Grupo_20861" data-name="Grupo 20861">
+          <g transform="matrix(1, 0, 0, 1, -119.87, -27)" filter="url(#Elipse_306)">
+            <g id="Elipse_306-2" data-name="Elipse 306" transform="translate(122.09 27)" fill="none" stroke="#e2306c" stroke-width="2">
+              <circle cx="15.216" cy="15.216" r="15.216" stroke="none"/>
+              <circle cx="15.216" cy="15.216" r="14.216" fill="none"/>
+            </g>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -119.87, -27)" filter="url(#Caminho_7459)">
+            <path id="Caminho_7459-2" data-name="Caminho 7459" d="M1644.061,4387.5h2.362v3.261h-2.516V4387.5Z" transform="translate(-1524.04 -4346.73)" fill="#e2306c"/>
+          </g>
+        </g>
+        <g id="Grupo_20860" data-name="Grupo 20860" transform="translate(39.896)">
+          <g transform="matrix(1, 0, 0, 1, -159.76, -27)" filter="url(#Elipse_307)">
+            <g id="Elipse_307-2" data-name="Elipse 307" transform="translate(190.19 57.43) rotate(180)" fill="none" stroke="#e2306c" stroke-width="2">
+              <circle cx="15.216" cy="15.216" r="15.216" stroke="none"/>
+              <circle cx="15.216" cy="15.216" r="14.216" fill="none"/>
+            </g>
+          </g>
+          <g transform="matrix(1, 0, 0, 1, -159.76, -27)" filter="url(#Caminho_7460)">
+            <path id="Caminho_7460-2" data-name="Caminho 7460" d="M.154,0H2.516V3.261H0V0Z" transform="translate(192.41 43.67) rotate(180)" fill="#e2306c"/>
+          </g>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -119.87, -27)" filter="url(#Caminho_7461)">
+        <path id="Caminho_7461-2" data-name="Caminho 7461" d="M1617.833,4389.54s4.144-6.137,8.808,0c-.023.045.86-3.556.86-3.556a9.481,9.481,0,0,0-10.845.34C1616.7,4386.393,1617.833,4389.54,1617.833,4389.54Z" transform="translate(-1466.09 -4346.67)" fill="#e2306c"/>
+      </g>
+    </g>
+    <g id="Grupo_20863" data-name="Grupo 20863" transform="translate(282.076 434.062)">
+      <g transform="matrix(1, 0, 0, 1, -170.28, -81.29)" filter="url(#Caminho_7464)">
+        <path id="Caminho_7464-2" data-name="Caminho 7464" d="M4.848,0A4.848,4.848,0,1,1,0,4.848,4.848,4.848,0,0,1,4.848,0Z" transform="translate(174.16 81.29)" fill="#e2306c"/>
+      </g>
+      <path id="Caminho_7462" data-name="Caminho 7462" d="M0,0" transform="translate(10.535 8.588)" fill="#e2306c" stroke="#000" stroke-width="10"/>
+      <g transform="matrix(1, 0, 0, 1, -170.28, -81.29)" filter="url(#Elipse_309)">
+        <ellipse id="Elipse_309-2" data-name="Elipse 309" cx="9" cy="2" rx="9" ry="2" transform="translate(170 100.73)" fill="#e2306c"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -170.28, -81.29)" filter="url(#Caminho_7463)">
+        <path id="Caminho_7463-2" data-name="Caminho 7463" d="M0,0V11.634" transform="translate(179.01 90.02)" fill="#e2306c" stroke="#e2306c" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

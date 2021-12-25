@@ -1,0 +1,401 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@300;400;500;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #320995;
+}
+header {
+    height: 100px;
+    width: 100%;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+.center{
+    display: flex;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+
+.logo-menu img{
+    width: 100%;
+}
+
+.menu-items {
+    width: 50%;
+    text-align: left;
+    margin-top: 40px;
+}
+
+.mobile-menu {
+    color: white;
+    display: none;
+}
+
+.menu-items a {
+    color: white;
+    padding: 0 10px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+.menu-items a:hover {
+    color: #e2306c;
+    transition: .3s;
+}
+
+.botoes-menu {
+    display: flex;
+    width: 50%;
+    margin-top: 25px;
+}
+
+.botoes-menu [type=submit]{
+    min-width: 160px;
+    background: transparent;
+    border-radius: 5px;
+    color: white;
+    height: 50px;
+    font-family: 'Roboto',sans-serif;
+    cursor: pointer;
+    
+}
+
+.botoes-menu #botao1 {
+    border: 1px solid #e2306c;
+    margin-right: 50px;
+}
+
+.botoes-menu #botao1:hover {
+    border: 1px solid #7e55df;
+    background: #5626c4;
+    box-shadow: 0px 0px 15px #5626c4;
+    transition: .5s;
+}
+
+.botoes-menu #botao2 {
+    border: 1px solid #e3457a;
+    background: #e2306c;
+}
+
+.botoes-menu #botao2:hover{
+    border: 1px solid #b42454;
+    background: #b42454;
+    box-shadow: 0px 0px 15px #b42454;
+    transition: .5s;
+}
+
+.profilePhoto-menu img{
+    width: 100%;
+    margin: 25px 0;
+}
+section.main {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px 0;
+}
+
+section.main .text-main{
+    color: white;
+    padding: 200px 0;
+}
+
+section.main .text-main h2 {
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+section.main .text-main p {
+    font-family: 'Roboto',sans-serif;
+    font-weight: 300;
+}
+
+section.main .text-main [type=submit]{
+    width: 50%;
+    height: 50px;
+    background: #e2306c;
+    color: white;
+    border: #e2306c;
+    border-radius: 10px;
+    font-family: 'Roboto',sans-serif;
+}
+
+section.main .text-main [type=submit]:hover {
+    background: #b42454;
+    transition: .5s;
+    cursor: pointer;
+    box-shadow: 0px 0px 15px #b42454;
+}
+
+/*section.main .photo-main{
+    width: 50%;
+}*/
+
+section.main .photo-main img{
+    max-width: 1000px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#photo-text-main {
+    display: none;
+}
+
+section.mockup-transferencia .iphoneMockup img{
+    max-width: 100%;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#iphone {
+    display: none;
+}
+
+section.mockup-transferencia .text-transferencia {
+    color: white;
+    margin-top: 50px;
+}
+
+section.mockup-transferencia .text-transferencia h2 {
+    font-family: 'Montserrat',sans-serif;
+    padding-bottom: 1rem;
+}
+
+section.mockup-transferencia .text-transferencia p {
+    font-family: 'Roboto',sans-serif;
+    font-weight: 300;
+}
+
+section.duvidas .duvidas-text{
+    display: flex;
+    flex-direction: column;
+}
+
+section.duvidas h3 {
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 1rem;
+}
+
+section.duvidas {
+    color: white;
+    padding-top: 100px;
+}
+
+section.duvidas p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    padding-bottom: 1rem;
+}
+
+section.duvidas .borda {
+    border-bottom: 50px solid #e2306c;
+    border-bottom-width: 5px;
+    width: 20%;
+    border-radius: 5px;
+
+}
+
+section.mockup-iphones{
+    width: 100%;
+}
+
+section.mockup-iphones img {
+    max-width: 100%;
+    margin-top: 10rem;
+}
+
+section.aperte-o-play{
+    width: 100%;
+}
+
+section.aperte-o-play img{
+    max-width: 100%;
+    margin-top: 10rem;
+}
+
+
+section.baixe-o-app .texto-baixe-o-app{
+    color: white;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 5rem;
+}
+
+section.baixe-o-app .texto-baixe-o-app h2{
+    font-family: 'Montserrat',sans-serif;
+    padding-bottom: 1rem;
+}
+
+section.baixe-o-app .texto-baixe-o-app p{
+    font-family: 'Roboto',sans-serif;
+    font-weight: 300;
+}
+
+section.rodape-pre-footer {
+    width: 100%;
+    margin-top: 15rem;
+    background: #2b0784;
+    height: 300px;
+}
+
+section.rodape-pre-footer h3 {
+    padding-bottom: 1rem;
+    font-family: 'Montserrat',sans-serif;
+    padding-top: 3.5rem;
+}
+
+section.rodape-pre-footer a {
+    padding-bottom: 1rem;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: white;
+    width: 50%;
+}
+
+section.rodape-pre-footer a:hover {
+    color: #e2306c;
+    transition: .3s;
+}
+
+section.rodape-pre-footer .borda {
+    border-bottom: 50px solid #e2306c;
+    border-bottom-width: 5px;
+    width: 20%;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+
+}
+
+.text-footer1{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    width: 33.3%;
+}
+
+.text-footer2{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    width: 33.3%;
+}
+
+.text-footer4{
+    color: white;
+    display: block;
+    width: 33.3%;
+}
+
+.text-footer4 i{
+    padding: 0 5px;
+    cursor: pointer;
+}
+
+.text-footer4 i:hover{
+    color: #e2306c;
+    transition: .3s;
+}
+
+footer {
+    background: #2b0784;
+    height: vh;
+    width: 100%;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5);
+}
+
+ .rodape-direitos {
+    display: flex;
+    margin: 0 auto;
+    text-align: right;
+}
+
+.rodape-direitos p {
+    color: white;
+    font-family: 'Roboto',sans-serif;
+    font-weight: 300;
+    width: 100%;
+    font-size: 15px;
+    padding-top: 2rem;
+}
+
+
+.logo-footer {
+    width: 50%;
+}
+
+.logo-footer img {
+    max-width: 180px;
+}
+
+
+@media screen and (max-width: 768px){
+    .menu-items,.botoes-menu,.profilePhoto-menu{
+        display: none;
+    }
+
+    .mobile-menu {
+        color: white;
+        display: block;
+    }
+
+    .logo-menu{
+        display: flex;
+        margin: 0 auto;
+    }
+
+
+    .logo-menu img{
+        width: 100%;
+        max-width: 150px;
+        margin-top: 5px;
+    }
+
+    section.main .text-main {
+        text-align: center;
+        align-content: center;
+        justify-content: center;
+        padding: 0 auto;
+        padding-left: 15px;
+        padding-bottom: 20px;
+    }
+
+    .photo-main{
+        display: none;
+    }
+
+    #photo-text-main {
+        max-width: 100%;
+        display: inline-block;
+        vertical-align: middle;
+        padding-bottom: 1rem;
+    }
+
+    .iphoneMockup{
+        display: none;
+    }
+    
+    #iphone {
+        max-width: 100%;
+        display: inline-block;
+        vertical-align: middle;
+        padding-bottom: 1rem;
+    }
+
+    section.mockup-transferencia .text-transferencia{
+        text-align: center;
+    }
+
+    section.baixe-o-app .texto-baixe-o-app #botoes{
+        width: 100%;
+    }
+
+    section.rodape-pre-footer {
+        height: 350px;
+    }
+}
